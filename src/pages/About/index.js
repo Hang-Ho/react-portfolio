@@ -26,5 +26,5 @@ function About() {
         </Header>
     )
 }
-
+ 
 export default About;
