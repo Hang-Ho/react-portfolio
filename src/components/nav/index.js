@@ -2,7 +2,7 @@ import React from 'react';
 import Row from '../row';
 import Col from '../col';
 import Container from '../container';
-
+import {Link} from 'react-router-dom';
 function Nav() {
     return (
         <Container>
@@ -15,16 +15,16 @@ function Nav() {
                         </div>
                         <ul className="nav ml-auto">
                             <li className="nav-item active">
-                                <a className="nav-link text-muted" href="/">About <span
-                                    className="sr-only">(current)</span></a>
+                                <Link className="nav-link text-muted" to="/">About <span
+                                    className="sr-only">(current)</span></Link>
                             </li>
                             <li className="nav-item active">
-                                <a className="nav-link text-muted" href="/portfolio">Portfolio <span
-                                    className="sr-only">(current)</span></a>
+                                <Link className="nav-link text-muted" to="/portfolio">Portfolio <span
+                                    className="sr-only">(current)</span></Link>
                             </li>
                             <li className="nav-item active">
-                                <a className="nav-link text-muted" href="/contact">Contact <span
-                                    className="sr-only">(current)</span></a>
+                                <Link className="nav-link text-muted" to="/contact">Contact <span
+                                    className="sr-only">(current)</span></Link>
                             </li>
                         </ul>
                     </nav>
