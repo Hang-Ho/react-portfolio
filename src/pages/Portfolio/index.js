@@ -46,7 +46,7 @@ function Portfolio() {
                     </div>
                 </Col>
             </Row>
-            </Hearder>
+            </Hearder>   
     )
 }
 
