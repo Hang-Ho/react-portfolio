@@ -13,9 +13,9 @@ function About() {
                 </Col>
                 <Col className="col-sm-8">
                     <p>Welcome to my page!</p>
-                    <p>My name is Hang Ho. I'm attending at UC Berkeley Extension program, and my portfolio is a representation of what I have
-                        learned from our
-                        bootcamp.</p>
+                    <p>My name is Hang Ho. I’m pursuing a Bachelor of Science in Computer Science at San Jose State University. I’m graduated from UC Berkeley coding boot camps. 
+                        I’m open-minded and learn new things quickly. I’m always interested in challenges and open to constructive feedback. 
+                        Reach out to my contact to connect!</p>
                 </Col>
             </Row>
             <Row>

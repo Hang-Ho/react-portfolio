@@ -22,7 +22,7 @@ function Portfolio() {
                     </div>
                 </Col>
                 <Col className="col-sm-3 frame ml-5">
-                    <a href="https://hang-ho.github.io/homework5/main.html"><img className="pic shadow rounded" src="https://tse3.mm.bing.net/th?id=OIP.UIhpjOT7gPNL-OLkrdJTeQAAAA&pid=Api&P=0&w=170&h=135" alt=""></img></a>
+                    <a href="https://hang-ho.github.io/homework5/main.html"><img className="pic shadow rounded" src="https://cdn.thewirecutter.com/wp-content/uploads/2018/10/notebooks-lowres-8457-630x420.jpg" alt=""></img></a>
                     <div className="text">
                         <h4>Day Planner</h4>
                     </div>

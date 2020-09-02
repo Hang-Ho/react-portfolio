@@ -10,18 +10,14 @@ function Contact() {
             <Col className="col-sm-12 mt-4">
                 <form>
                     <div className="form-group">
-                        <label>Name</label>
-                        <input type="text" className="form-control" id="formGroupExampleInput" placeholder="John Smith"></input>
+                        <label>Cell Phone:</label>
+                        <p>(510) 759 6506</p>
                     </div>
-                    <div className="form-group">
-                        <label>Email</label>
-                        <input type="text" className="form-control" id="formGroupExampleInput2"
-                            placeholder="example@gmail.com"></input>
-                    </div>
-                    <label>Message</label>
-                    <textarea className="form-control" aria-label="With textarea"></textarea>
                     <br></br>
-                    <button type="submit" className="btn bg-info text-white my-1">Submit</button>
+                    <div className="form-group">
+                        <label>Email:</label>
+                        <p>hangphamho@gmail.com</p>
+                    </div>                    
                 </form>
             </Col>
         </Row>

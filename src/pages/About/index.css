@@ -1,8 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Gayathri&display=swap');
 main{
     margin-top: 5vh;
     background-color: whitesmoke;
     height: 80vh;
     margin-bottom: 10vh;
+    font-family: 'Gayathri', sans-serif;
+    word-spacing: 3px;
+    font-size: larger;
 }
 .mypic{
     width: 90%;
