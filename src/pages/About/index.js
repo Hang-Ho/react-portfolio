@@ -9,7 +9,7 @@ function About() {
         <Header info="About Me">
             <Row className="mt-4">
                 <Col className="col-sm-4">
-                    <img className="mypic shadow mb-5 rounded" src="https://avatars0.githubusercontent.com/u/55907833?s=460&u=3749b8c0dd55c8410990f57f942c2808eb31c0e7&v=4" alt=""></img>
+                    <img className="mypic shadow mb-5 rounded" src="https://media-exp1.licdn.com/dms/image/C5603AQG7sEnN51IRvA/profile-displayphoto-shrink_400_400/0/1598122309543?e=1615420800&v=beta&t=uDS_PuTSw5r7gtkETVwae7Itn1XOyN6FzsQzeGRHJ_M" alt=""></img>
                 </Col>
                 <Col className="col-sm-8">
                     <p>Welcome to my page!</p>
