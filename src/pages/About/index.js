@@ -13,8 +13,8 @@ function About() {
                 </Col>
                 <Col className="col-sm-8">
                     <p>Welcome to my page!</p>
-                    <p>My name is Hang Ho. I’m pursuing a Bachelor of Science in Computer Science at San Jose State University. I’m graduated from UC Berkeley coding boot camps. 
-                        I’m open-minded and learn new things quickly. I’m always interested in challenges and open to constructive feedback. 
+                    <p>My name is Hang Ho. I’m pursuing a Bachelor of Science degree in Computer Science at San Jose State University. I’ve graduated from UC Berkeley coding boot camps in summer 2020. 
+                        I’m open-minded and learn new things quickly. I’m always interested in challenges and open to constructive feedback. Currently, I'm seeking for internships in summer 2021 and Full-Time opportunities in the field of Computer Science from Summer 2022.
                         Reach out to my contact to connect!</p>
                 </Col>
             </Row>
