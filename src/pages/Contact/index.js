@@ -16,7 +16,7 @@ function Contact() {
                     <br></br>
                     <div className="form-group">
                         <label>Email:</label>
-                        <p>hangphamho@gmail.com</p>
+                        <a href="mailto:hangphamho@gmail.com">hangphamho@gmail.com</a>
                     </div>                    
                 </form>
             </Col>
